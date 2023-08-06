@@ -1,0 +1,23 @@
+2023-08-06 06:20:28.477678 - Initialized conversion of CBT663
+2023-08-06 06:20:28.724481 - Received CBT.V505.FILE663.PDS from FILE663.XMI 
+2023-08-06 06:20:28.726749 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:20:28.727823 - Found $$NAMES.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$$NAMES
+2023-08-06 06:20:28.729009 - Found $PDPCLIB.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$PDPCLIB
+2023-08-06 06:20:28.729969 - Found $PDPGOAL.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$PDPGOAL
+2023-08-06 06:20:28.730836 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$PDSLOAD
+2023-08-06 06:20:28.731658 - Found $PROGRES.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$PROGRES
+2023-08-06 06:20:28.732475 - Found $README.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/$README
+2023-08-06 06:20:28.733334 - Found @FILE663.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/@FILE663
+2023-08-06 06:20:28.734410 - Found ASM.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/ASM
+2023-08-06 06:20:28.735292 - Found BAT.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/BAT
+2023-08-06 06:20:28.736328 - Found C.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/C
+2023-08-06 06:20:28.737188 - Found CMD.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/CMD
+2023-08-06 06:20:28.738213 - Found H.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/H
+2023-08-06 06:20:28.739227 - Found IN.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/IN
+2023-08-06 06:20:28.740263 - Found MAKEFILE.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/MAKEFILE
+2023-08-06 06:20:28.741126 - Found MVS.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/MVS
+2023-08-06 06:20:28.742129 - Found MVSOPTS.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/MVSOPTS
+2023-08-06 06:20:28.743257 - Found MVSZIP.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/MVSZIP
+2023-08-06 06:20:28.748999 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE663.PDS
+2023-08-06 06:20:28.754635   - Received RECFM=U data, stored XMIT file as CBT663/PDSLOAD.xmi
+2023-08-06 06:20:28.755523 - Found TXT.txt (text/plain) in CBT.V505.FILE663.PDS, moved to PDS/TXT

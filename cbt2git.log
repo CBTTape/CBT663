@@ -1,23 +1,23 @@
-2025-04-15 04:24:04.248746 - Received CBT.V508.FILE663.PDS from FILE663.XMI 
-2025-04-15 04:24:04.250466 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$$$#DATE
-2025-04-15 04:24:04.250663 - Found $$NAMES.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$$NAMES
-2025-04-15 04:24:04.250979 - Found $PDPCLIB.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDPCLIB
-2025-04-15 04:24:04.251174 - Found $PDPGOAL.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDPGOAL
-2025-04-15 04:24:04.251430 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDSLOAD
-2025-04-15 04:24:04.251676 - Found $PROGRES.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PROGRES
-2025-04-15 04:24:04.251896 - Found $README.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$README
-2025-04-15 04:24:04.252137 - Found @FILE663.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/@FILE663
-2025-04-15 04:24:04.252680 - Found ASM.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/ASM
-2025-04-15 04:24:04.252868 - Found BAT.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/BAT
-2025-04-15 04:24:04.253928 - Found C.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/C
-2025-04-15 04:24:04.254123 - Found CMD.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/CMD
-2025-04-15 04:24:04.254734 - Found H.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/H
-2025-04-15 04:24:04.254895 - Found IN.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/IN
-2025-04-15 04:24:04.255095 - Found MAKEFILE.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MAKEFILE
-2025-04-15 04:24:04.255290 - Found MVS.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVS
-2025-04-15 04:24:04.255464 - Found MVSOPTS.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVSOPTS
-2025-04-15 04:24:04.255618 - Found MVSZIP.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVSZIP
-2025-04-15 04:24:04.255796 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE663.PDS, moved to PDS/PDSLOAD.xmi
-2025-04-15 04:24:04.261377 - Received CBT.CBT464.FILE035.PDS from PDSLOAD.xmi 
-2025-04-15 04:24:04.261892 - Found PDSLOAD.bin (application/octet-stream) in CBT.CBT464.FILE035.PDS, moved to PDSLOAD/PDSLOAD
-2025-04-15 04:24:04.262323 - Found TXT.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/TXT
+2025-04-15 23:10:35.916625 - Received CBT.V508.FILE663.PDS from FILE663.XMI 
+2025-04-15 23:10:35.918096 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$$$#DATE
+2025-04-15 23:10:35.918509 - Found $$NAMES.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$$NAMES
+2025-04-15 23:10:35.918874 - Found $PDPCLIB.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDPCLIB
+2025-04-15 23:10:35.919088 - Found $PDPGOAL.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDPGOAL
+2025-04-15 23:10:35.919357 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PDSLOAD
+2025-04-15 23:10:35.919602 - Found $PROGRES.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$PROGRES
+2025-04-15 23:10:35.919774 - Found $README.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/$README
+2025-04-15 23:10:35.919830 - Found @FILE663.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/@FILE663
+2025-04-15 23:10:35.920183 - Found ASM.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/ASM
+2025-04-15 23:10:35.920357 - Found BAT.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/BAT
+2025-04-15 23:10:35.921299 - Found C.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/C
+2025-04-15 23:10:35.921477 - Found CMD.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/CMD
+2025-04-15 23:10:35.922073 - Found H.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/H
+2025-04-15 23:10:35.922268 - Found IN.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/IN
+2025-04-15 23:10:35.922491 - Found MAKEFILE.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MAKEFILE
+2025-04-15 23:10:35.922705 - Found MVS.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVS
+2025-04-15 23:10:35.922895 - Found MVSOPTS.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVSOPTS
+2025-04-15 23:10:35.923064 - Found MVSZIP.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/MVSZIP
+2025-04-15 23:10:35.923263 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE663.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-15 23:10:35.929907 - Received CBT.CBT464.FILE035.PDS from PDSLOAD.xmi 
+2025-04-15 23:10:35.930492 - Found PDSLOAD.bin (application/octet-stream) in CBT.CBT464.FILE035.PDS, moved to PDSLOAD/PDSLOAD
+2025-04-15 23:10:35.930870 - Found TXT.txt (text/plain) in CBT.V508.FILE663.PDS, moved to PDS/TXT
